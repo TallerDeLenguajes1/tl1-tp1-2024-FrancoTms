@@ -6,6 +6,10 @@ El archivo ".gitignore" es conveniente incluirlo ya que nos permite ignorar arch
 Para ignorar un archivo "ignorado.txt" debemos agregar el nombre y extensión del mismo al archivo ".gitignore".
 
 #### Ejercicio 3
-- c archivos no deseados
+- c.- archivos no deseados
 Se agregaron los archivos readme, .cpp y .exe El archivo con la extensión ".exe" es el que no hace falta.
- 
+
+- g.- resultados commit
+Los resultados son los mismos, con la excepción de que el archivo .exe fue ignorado y no se subió al repositorio en el segundo commit, debido a que el mismo se agregó el .gitignore.
+
+
