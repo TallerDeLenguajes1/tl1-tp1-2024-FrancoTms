@@ -7,4 +7,5 @@ Para ignorar un archivo "ignorado.txt" debemos agregar el nombre y extensión de
 
 #### Ejercicio 3
 - c archivos no deseados
-
+Se agregaron los archivos readme, .cpp y .exe El archivo con la extensión ".exe" es el que no hace falta.
+ 
